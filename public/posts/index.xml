@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Renée&#39;s Realm</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Renée&#39;s Realm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 21:40:45 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 11 Feb 2025 21:40:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hi! I&amp;rsquo;m Renée DeVivo, a Game Design and Developement and Computer Science student at the University
+of Arizona! This is essentially a place for me to showcase my thoughts and projects, and also so
+I look cool to other CS students.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hi! I&amp;rsquo;m Renée DeVivo, a Game Design and Developement and Computer Science student at the University
+of Arizona! This is essentially a place for me to showcase my thoughts and projects, and also so
+I look cool to other CS students.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
